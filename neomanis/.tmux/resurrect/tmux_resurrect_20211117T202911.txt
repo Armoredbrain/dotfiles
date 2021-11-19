@@ -1,0 +1,4 @@
+pane	0	0	1	:*	0	:/home/beluga/NEOMANIS/Diagnostics_Service	0	zsh	:
+pane	0	0	1	:*	1	:/home/beluga/NEOMANIS/NeoBot_Service	1	zsh	:
+window	0	0	:zsh	1	:*	92f0,378x77,0,0{189x77,0,0,0,188x77,190,0,1}	:
+state	0	

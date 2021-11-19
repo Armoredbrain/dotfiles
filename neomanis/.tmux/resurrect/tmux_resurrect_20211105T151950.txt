@@ -1,0 +1,10 @@
+pane	0	0	1	:*	0	:/home/beluga/PRO/Register_Service	0	zsh	:
+pane	0	0	1	:*	1	:/home/beluga/PRO/Notification_Service	1	zsh	:
+pane	0	0	1	:*	2	:/home/beluga/PRO/User_service	0	zsh	:
+pane	0	0	1	:*	3	:/home/beluga/PRO/Diagnostics_Service	0	zsh	:
+pane	0	0	1	:*	4	:/home/beluga/PRO/Itsm_Service	0	zsh	:
+pane	0	0	1	:*	5	:/home/beluga/PRO/Resources_Service	0	zsh	:
+pane	1	0	1	:*	0	:/home/beluga	1	zsh	:
+window	0	0	:zsh	1	:*	d517,378x77,0,0{112x77,0,0[112x38,0,0,1,112x38,0,39,2],104x77,113,0[104x38,113,0,3,104x38,113,39,8],160x77,218,0[160x38,218,0,4,160x38,218,39,9]}	:
+window	1	0	:zsh	1	:*	b864,213x62,0,0,7	:
+state	0	1

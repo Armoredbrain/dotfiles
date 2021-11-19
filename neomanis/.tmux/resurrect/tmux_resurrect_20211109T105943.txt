@@ -1,0 +1,12 @@
+pane	0	0	1	:*	0	:/home/beluga/PRO/User_service	0	zsh	:
+pane	0	0	1	:*	1	:/home/beluga/PRO/Register_Service	0	zsh	:
+pane	0	0	1	:*	2	:/home/beluga/PRO/Itsm_Service	0	zsh	:
+pane	0	0	1	:*	3	:/home/beluga/PRO/Diagnostics_Service	0	zsh	:
+pane	0	0	1	:*	4	:/home/beluga/PRO/Resources_Service	0	zsh	:
+pane	0	0	1	:*	5	:/home/beluga/PRO/Orchestrator_Service	0	zsh	:
+pane	0	0	1	:*	6	:/home/beluga/PRO/Notification_Service	0	zsh	:
+pane	0	0	1	:*	7	:/home/beluga/PRO/NeoBot_Service	1	zsh	:
+pane	1	0	1	:*	0	:/home/beluga/PRO/Neo_Server	1	zsh	:
+window	0	0	:zsh	1	:*	754c,378x77,0,0{84x77,0,0[84x38,0,0,0,84x38,0,39,5],99x77,85,0[99x38,85,0,6,99x38,85,39,10],102x77,185,0[102x38,185,0,2,102x38,185,39,7],90x77,288,0[90x38,288,0,3,90x38,288,39,8]}	:
+window	1	0	:zsh	1	:*	d286,378x77,0,0,9	:
+state	0	1

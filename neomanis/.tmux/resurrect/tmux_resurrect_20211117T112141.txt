@@ -1,0 +1,15 @@
+pane	0	0	1	:*	0	:/home/beluga/NEOMANIS/Register_Service	0	node	:node /home/beluga/.nvm/versions/node/v16.13.0/bin/yarn start
+pane	0	0	1	:*	1	:/home/beluga/NEOMANIS/Register_Service	0	zsh	:
+pane	0	0	1	:*	2	:/home/beluga/NEOMANIS/Itsm_Service	0	zsh	:
+pane	0	0	1	:*	3	:/home/beluga/NEOMANIS/Neo_Helper	0	zsh	:
+pane	0	0	1	:*	4	:/home/beluga/NEOMANIS/Neo_Helper	0	zsh	:
+pane	0	0	1	:*	5	:/home/beluga/NEOMANIS/NeoBot_Service	0	zsh	:
+pane	0	0	1	:*	6	:/home/beluga/PRO/Knowledge_Service	1	zsh	:
+pane	0	0	1	:*	7	:/home/beluga/NEOMANIS/Neo_Server	0	zsh	:
+pane	0	0	1	:*	8	:/home/beluga/NEOMANIS/Diagnostics_Service	0	zsh	:
+pane	0	0	1	:*	9	:/home/beluga/NEOMANIS/Resources_Service	0	zsh	:
+pane	0	0	1	:*	10	:/home/beluga/NEOMANIS/User_service	0	zsh	:
+pane	0	0	1	:*	11	:/home/beluga/NEOMANIS/Notification_Service	0	zsh	:
+pane	0	0	1	:*	12	:/home/beluga/NEOMANIS/Orchestrator_Service	0	zsh	:
+window	0	0	:zsh	1	:*	6192,213x62,0,0{92x62,0,0[92x15,0,0,1,92x11,0,16,12,92x13,0,28,2,92x20,0,42{35x20,0,42,3,56x20,36,42,13}],120x62,93,0[120x27,93,0{46x27,93,0[46x12,93,0,4,46x14,93,13,5],73x27,140,0[73x12,140,0,6,73x14,140,13,7]},120x18,93,28{46x18,93,28,8,73x18,140,28,9},120x15,93,47{46x15,93,47,10,73x15,140,47,11}]}	:
+state	0	

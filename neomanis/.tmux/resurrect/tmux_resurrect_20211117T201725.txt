@@ -1,0 +1,16 @@
+pane	0	0	1	:*	0	:/home/beluga/NEOMANIS/Register_Service	0	zsh	:
+pane	0	0	1	:*	1	:/home/beluga/NEOMANIS/Register_Service	0	zsh	:
+pane	0	0	1	:*	2	:/home/beluga/NEOMANIS/Itsm_Service	0	zsh	:
+pane	0	0	1	:*	3	:/home/beluga/NEOMANIS/Itsm_Service	0	zsh	:
+pane	0	0	1	:*	4	:/home/beluga/NEOMANIS/NeoBot_Service	0	zsh	:
+pane	0	0	1	:*	5	:/home/beluga/NEOMANIS/NeoBot_Service	0	zsh	:
+pane	0	0	1	:*	6	:/home/beluga/NEOMANIS/Knowledge_Service	0	zsh	:
+pane	0	0	1	:*	7	:/home/beluga/NEOMANIS/Neo_Component	1	zsh	:
+pane	0	0	1	:*	8	:/home/beluga/NEOMANIS/Neo_Server	0	zsh	:
+pane	0	0	1	:*	9	:/home/beluga/NEOMANIS/Diagnostics_Service	0	zsh	:
+pane	0	0	1	:*	10	:/home/beluga/NEOMANIS/Resources_Service	0	zsh	:
+pane	0	0	1	:*	11	:/home/beluga/NEOMANIS/User_service	0	zsh	:
+pane	0	0	1	:*	12	:/home/beluga/NEOMANIS/Notification_Service	0	zsh	:
+pane	0	0	1	:*	13	:/home/beluga/NEOMANIS/Orchestrator_Service	0	zsh	:
+window	0	0	:zsh	1	:*	332e,188x77,0,0{47x77,0,0[47x17,0,0,1,47x19,0,18,15,47x19,0,38,3,47x19,0,58,16],140x77,48,0[140x48,48,0{91x48,48,0[91x24,48,0{45x24,48,0,6,45x24,94,0,17},91x23,48,25{45x23,48,25,7,45x23,94,25,18}],48x48,140,0[48x24,140,0,8,48x23,140,25,9]},140x15,48,49{69x15,48,49,10,70x15,118,49,11},140x12,48,65{69x12,48,65,12,70x12,118,65,13}]}	:
+state	0	

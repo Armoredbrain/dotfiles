@@ -1,0 +1,23 @@
+pane	0	0	1	:*	0	:/home/beluga/NEOMANIS/Diagnostics_Service	0	zsh	:
+pane	0	0	1	:*	1	:/home/beluga/NEOMANIS/NeoBot_Service	1	zsh	:
+pane	1	0	1	:*	0	:/home/beluga	1	zsh	:
+pane	2	0	1	:*	0	:/home/beluga/NEOMANIS/Register_Service	0	zsh	:
+pane	2	0	1	:*	1	:/home/beluga/NEOMANIS/Resources_Service	0	zsh	:
+pane	2	0	1	:*	2	:/home/beluga/NEOMANIS/Knowledge_Service	0	zsh	:
+pane	2	0	1	:*	3	:/home/beluga/NEOMANIS/Register_Utilities	0	zsh	:
+pane	2	0	1	:*	4	:/home/beluga/NEOMANIS/User_service	0	zsh	:
+pane	2	0	1	:*	5	:/home/beluga/NEOMANIS/NeoBot_Service	0	zsh	:
+pane	2	0	1	:*	6	:/home/beluga/NEOMANIS/Neo_Component	0	zsh	:
+pane	2	0	1	:*	7	:/home/beluga	0	zsh	:
+pane	2	0	1	:*	8	:/home/beluga/NEOMANIS/Itsm_Service	0	zsh	:
+pane	2	0	1	:*	9	:/home/beluga/NEOMANIS/Notification_Service	0	zsh	:
+pane	2	0	1	:*	10	:/home/beluga/NEOMANIS/Orchestrator_Service	0	zsh	:
+pane	2	0	1	:*	11	:/home/beluga/NEOMANIS/Diagnostics_Service	0	zsh	:
+pane	2	0	1	:*	12	:/home/beluga/NEOMANIS/Neo_Server	0	zsh	:
+pane	2	0	1	:*	13	:/home/beluga	1	zsh	:
+pane	2	0	1	:*	14	:/home/beluga/NEOMANIS/Neo_Helper	0	zsh	:
+pane	2	0	1	:*	15	:/home/beluga/NEOMANIS/Neo_Helper	0	zsh	:
+window	0	0	:zsh	1	:*	c64e,213x62,0,0{106x62,0,0,1,106x62,107,0,2}	:
+window	1	0	:zsh	1	:*	b860,213x62,0,0,3	:
+window	2	0	:zsh	1	:*	2475,213x62,0,0{53x62,0,0[53x16,0,0,4,53x15,0,17,5,53x14,0,33,6,53x14,0,48,7],54x62,54,0[54x16,54,0,8,54x15,54,17,9,54x14,54,33,10,54x14,54,48,11],104x62,109,0[104x16,109,0{51x16,109,0,12,52x16,161,0,15},104x15,109,17{51x15,109,17,13,52x15,161,17,16},104x29,109,33{51x29,109,33[51x14,109,33,14,51x14,109,48,19],52x29,161,33[52x14,161,33,17,52x14,161,48,18]}]}	:
+state	2	1
